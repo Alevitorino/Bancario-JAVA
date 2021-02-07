@@ -1,0 +1,6 @@
+Infelizmente não consegui exportar o banco de dados em SQL
+Então é só fazer manualmente, exatamente com está escrito no print
+
+##################ATENÇÃO############################
+Preste a atenção nas letras minusculas e maiusculas.
+
